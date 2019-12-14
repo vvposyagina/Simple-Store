@@ -1,0 +1,58 @@
+C:\DevCustom\New folder\BasketService\BasketHost\obj\Debug\BasketHost.csprojResolveAssemblyReference.cache
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\store.db
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketHost.exe.config
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketHost.exe
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketHost.pdb
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketService.dll
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketService.Model.dll
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketService.pdb
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketService.Model.pdb
+C:\DevCustom\New folder\BasketService\BasketHost\obj\Debug\BasketHost.exe
+C:\DevCustom\New folder\BasketService\BasketHost\obj\Debug\BasketHost.pdb
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketService.DataAccess.dll
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\System.Data.SQLite.dll
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\BasketService.DataAccess.pdb
+C:\DevCustom\New folder\BasketService\BasketHost\bin\Debug\System.Data.SQLite.xml
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.exe.config
+E:\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.exe
+E:\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.pdb
+E:\BasketService\BasketService\BasketHost\bin\Debug\store.db
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.exe
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.pdb
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketService.dll
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketService.Model.dll
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketService.DataAccess.dll
+E:\BasketService\BasketService\BasketHost\bin\Debug\System.Data.SQLite.dll
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketService.pdb
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketService.Model.pdb
+E:\BasketService\BasketService\BasketHost\bin\Debug\BasketService.DataAccess.pdb
+E:\BasketService\BasketService\BasketHost\bin\Debug\System.Data.SQLite.xml
+E:\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.csprojResolveAssemblyReference.cache
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.exe.config
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.exe
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.exe
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.Model.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.DataAccess.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\System.Data.SQLite.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.Model.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.DataAccess.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\bin\Debug\System.Data.SQLite.xml
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.csprojResolveAssemblyReference.cache
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.exe.config
+E:\Store\BS\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.exe
+E:\Store\BS\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.pdb
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.exe
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketHost.pdb
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.dll
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.Model.dll
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.DataAccess.dll
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\System.Data.SQLite.dll
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.pdb
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.Model.pdb
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\BasketService.DataAccess.pdb
+E:\Store\BS\BasketService\BasketService\BasketHost\bin\Debug\System.Data.SQLite.xml
+E:\Store\BS\BasketService\BasketService\BasketHost\obj\Debug\BasketHost.csprojResolveAssemblyReference.cache

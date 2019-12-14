@@ -1,0 +1,14 @@
+C:\DevCustom\New folder\BasketService\BasketService.Model\bin\Debug\BasketService.Model.dll
+C:\DevCustom\New folder\BasketService\BasketService.Model\bin\Debug\BasketService.Model.pdb
+C:\DevCustom\New folder\BasketService\BasketService.Model\obj\Debug\BasketService.Model.dll
+C:\DevCustom\New folder\BasketService\BasketService.Model\obj\Debug\BasketService.Model.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.Model\obj\Debug\BasketService.Model.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.Model\bin\Debug\BasketService.Model.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.Model\bin\Debug\BasketService.Model.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.Model\obj\Debug\BasketService.Model.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.Model\obj\Debug\BasketService.Model.csprojResolveAssemblyReference.cache
+E:\Store\BS\BasketService\BasketService\BasketService.Model\bin\Debug\BasketService.Model.dll
+E:\Store\BS\BasketService\BasketService\BasketService.Model\bin\Debug\BasketService.Model.pdb
+E:\Store\BS\BasketService\BasketService\BasketService.Model\obj\Debug\BasketService.Model.csprojResolveAssemblyReference.cache
+E:\Store\BS\BasketService\BasketService\BasketService.Model\obj\Debug\BasketService.Model.dll
+E:\Store\BS\BasketService\BasketService\BasketService.Model\obj\Debug\BasketService.Model.pdb

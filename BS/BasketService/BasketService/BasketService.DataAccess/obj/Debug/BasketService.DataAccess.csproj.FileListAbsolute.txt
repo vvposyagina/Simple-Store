@@ -1,0 +1,66 @@
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.csprojResolveAssemblyReference.cache
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.dll.config
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.dll
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.pdb
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\BasketService.Model.dll
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.dll
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.EF6.dll
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\BasketService.Model.pdb
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.xml
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.xml
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.dll
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.pdb
+C:\DevCustom\New folder\BasketService\BasketService.DataAccess\bin\Debug\store.db
+E:\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.csprojResolveAssemblyReference.cache
+E:\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.dll
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\store.db
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.dll.config
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.dll
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.pdb
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.Model.dll
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.dll
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.EF6.dll
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.Linq.dll
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.Model.pdb
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.xml
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.xml
+E:\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.dll.config
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.Model.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.EF6.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.Model.pdb
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.xml
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.xml
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.csprojResolveAssemblyReference.cache
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.dll
+C:\DevCustom\New folder\New folder\BS\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.pdb
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.dll.config
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.dll
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.DataAccess.pdb
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.Model.dll
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.dll
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\BasketService.Model.pdb
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.xml
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\bin\Debug\System.Data.SQLite.xml
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.csprojResolveAssemblyReference.cache
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.dll
+E:\Store\BS\BasketService\BasketService\BasketService.DataAccess\obj\Debug\BasketService.DataAccess.pdb

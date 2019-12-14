@@ -1,0 +1,69 @@
+C:\DevCustom\New folder\BasketClient\BasketClient\bin\Debug\Client.exe.config
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Basket.baml
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\MainWindow.baml
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\ProductsDetails.baml
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\SuccessfulPurchase.baml
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Basket.g.cs
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\MainWindow.g.cs
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\ProductsDetails.g.cs
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\SuccessfulPurchase.g.cs
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\App.g.cs
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Client_MarkupCompile.cache
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Client.g.resources
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Client.Properties.Resources.resources
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\DevCustom\New folder\BasketClient\BasketClient\bin\Debug\Client.exe
+C:\DevCustom\New folder\BasketClient\BasketClient\bin\Debug\Client.pdb
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Client.exe
+C:\DevCustom\New folder\BasketClient\BasketClient\obj\Debug\Client.pdb
+E:\BasketClient\BasketClient\BasketClient\bin\Debug\Client.exe.config
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\Client.exe
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\Client.pdb
+E:\BasketClient\BasketClient\BasketClient\bin\Debug\Client.exe
+E:\BasketClient\BasketClient\BasketClient\bin\Debug\Client.pdb
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\Basket.baml
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\MainWindow.baml
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\SuccessfulPurchase.baml
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\Basket.g.cs
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\MainWindow.g.cs
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\SuccessfulPurchase.g.cs
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\App.g.cs
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\Client_MarkupCompile.cache
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\Client.g.resources
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\Client.Properties.Resources.resources
+E:\BasketClient\BasketClient\BasketClient\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\bin\Debug\Client.exe.config
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.exe
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.pdb
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Basket.baml
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\MainWindow.baml
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\SuccessfulPurchase.baml
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Basket.g.cs
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\MainWindow.g.cs
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\SuccessfulPurchase.g.cs
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\App.g.cs
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client_MarkupCompile.cache
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.g.resources
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.Properties.Resources.resources
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\bin\Debug\Client.exe
+C:\DevCustom\New folder\New folder\BS\BasketClient\BasketClient\BasketClient\bin\Debug\Client.pdb
+E:\Store\BS\BasketClient\BasketClient\BasketClient\bin\Debug\Client.exe.config
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.exe
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.pdb
+E:\Store\BS\BasketClient\BasketClient\BasketClient\bin\Debug\Client.exe
+E:\Store\BS\BasketClient\BasketClient\BasketClient\bin\Debug\Client.pdb
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Basket.baml
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\MainWindow.baml
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\SuccessfulPurchase.baml
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Basket.g.cs
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\MainWindow.g.cs
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\SuccessfulPurchase.g.cs
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\App.g.cs
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client_MarkupCompile.cache
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.g.resources
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.Properties.Resources.resources
+E:\Store\BS\BasketClient\BasketClient\BasketClient\obj\Debug\Client.csproj.GenerateResource.Cache

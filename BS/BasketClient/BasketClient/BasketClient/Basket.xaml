@@ -1,0 +1,15 @@
+﻿<Window x:Class="Client.Basket"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Basket" Height="500" Width="700" FontFamily="Century Gothic">
+    <Grid x:Name="bPay">
+        <Label x:Name="lYourBasket" Content="Your basket" HorizontalAlignment="Left" Margin="25,27,0,0" VerticalAlignment="Top" FontSize="24" Height="39" Width="165"/>
+        <DataGrid x:Name="dgItemsFromBasket" HorizontalAlignment="Left" Margin="25,88,0,0" VerticalAlignment="Top" Height="255" Width="482" Background="{x:Null}" MinColumnWidth="70"/>
+        <Label x:Name="lTotal" Content="Total:" HorizontalAlignment="Left" Margin="25,360,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label x:Name="lTotalCount" Content="" HorizontalAlignment="Left" Margin="106,360,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Button x:Name="bPay1" Content="Pay" HorizontalAlignment="Left" Margin="25,406,0,0" VerticalAlignment="Top" Width="120" Height="39" Background="{x:Null}" Click="bPay1_Click"/>
+        <Button x:Name="bAddItem" Content="Add item" HorizontalAlignment="Left" Margin="543,128,0,0" VerticalAlignment="Top" Width="85" RenderTransformOrigin="-0.187,0.789" Background="{x:Null}" Click="bAddItem_Click"/>
+        <Button x:Name="bDeleteItem" Content="Delete item" HorizontalAlignment="Left" Margin="543,170,0,0" VerticalAlignment="Top" Width="85" RenderTransformOrigin="-0.187,0.789" Background="{x:Null}" Click="bDeleteItem_Click_1"/>
+        <Button x:Name="bUpdateBasket" Content="Update" HorizontalAlignment="Left" Margin="543,88,0,0" VerticalAlignment="Top" Width="85" RenderTransformOrigin="-0.187,0.789" Background="{x:Null}" Click="bUpdateBasket_Click"/>
+    </Grid>
+</Window>
